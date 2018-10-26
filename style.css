@@ -6,6 +6,7 @@ section {
   display: flex;
   justify-content: center;
   margin-top: 200px;
+  align-items: center;
 }
 .wrap {
   height: 100vh;
